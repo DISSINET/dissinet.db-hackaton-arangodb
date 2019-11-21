@@ -1,0 +1,3 @@
+# DISSINET database hackaton
+
+## ArangoDB
