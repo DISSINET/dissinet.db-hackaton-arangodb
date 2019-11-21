@@ -69,5 +69,3 @@ tables.forEach(table => {
   });
   //collPersons.truncate();
 });
-
-const collection = db.edgeCollection("statements");
