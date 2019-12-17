@@ -17,15 +17,21 @@ const eCollection = db.edgeCollection("edges");
 const statementCollection = db.collection("statements");
 eCollection.truncate().then(() => {
   statementsData.forEach(statement => {
-    const subjectTable = nodeTables.find(tname => {
-      return statement.subject.toLowerCase().includes(tname);
-    });
-    const directTable = nodeTables.find(tname => {
-      return statement.subject.toLowerCase().includes(tname);
-    });
-    const indirectTable = nodeTables.find(tname => {
-      return statement.subject.toLowerCase().includes(tname);
-    });
+    const subjectTable = statement.subject
+      ? nodeTables.find(tname => {
+          return statement.subject.toLowerCase().includes(tname);
+        })
+      : false;
+    const directTable = statement.direct
+      ? nodeTables.find(tname => {
+          return statement.direct.toLowerCase().includes(tname);
+        })
+      : false;
+    const indirectTable = statement.indirect
+      ? nodeTables.find(tname => {
+          return statement.indirect.toLowerCase().includes(tname);
+        })
+      : false;
 
     //console.log(nodeTable);
     //console.log(subjectCollection);
@@ -85,7 +91,7 @@ eCollection.truncate().then(() => {
 });
 
 const addEdge = data => {
-  //console.log(data);
+  console.log(data);
   eCollection.save(data).then(
     meta => console.log("Document saved: statements"),
     err => console.error("Failed to save document:", err)

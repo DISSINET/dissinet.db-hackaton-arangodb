@@ -1,1 +1,728 @@
-[{"id":"Statement-0","type":"address","subject":"Person70","direct":"Location17"},{"id":"Statement-1","type":"location","subject":"Person91","direct":"Location9"},{"id":"Statement-2","type":"address","subject":"Person94","direct":"Location11"},{"id":"Statement-3","type":"participation","subject":"Person4","direct":"Event0"},{"id":"Statement-4","type":"happening-at","subject":"Event4","direct":"Location13"},{"id":"Statement-5","type":"communication","subject":"Person53","direct":"Person13","indirect":"Statement-3"},{"id":"Statement-6","type":"address","subject":"Person70","direct":"Location7"},{"id":"Statement-7","type":"being-part","subject":"Statement-0","direct":"Event1"},{"id":"Statement-8","type":"possession","subject":"Person29","direct":"Objects19"},{"id":"Statement-9","type":"transfer","subject":"Person30","direct":"Person0","indirect":"Objects6"},{"id":"Statement-10","type":"communication","subject":"Person49","direct":"Person10","indirect":"Statement-0"},{"id":"Statement-11","type":"happening-at","subject":"Event9","direct":"Location18"},{"id":"Statement-12","type":"happening-at","subject":"Event1","direct":"Location19"},{"id":"Statement-13","type":"communication","subject":"Person7","direct":"Person69","indirect":"Statement-4"},{"id":"Statement-14","type":"participation","subject":"Person73","direct":"Event2"},{"id":"Statement-15","type":"location","subject":"Person82","direct":"Location15"},{"id":"Statement-16","type":"relationship","subject":"Person2","direct":"Person23"},{"id":"Statement-17","type":"transfer","subject":"Person86","direct":"Person80","indirect":"Objects16"},{"id":"Statement-18","type":"being-part","subject":"Statement-11","direct":"Event1"},{"id":"Statement-19","type":"happening-at","subject":"Event3","direct":"Location0"},{"id":"Statement-20","type":"possession","subject":"Person33","direct":"Objects14"},{"id":"Statement-21","type":"participation","subject":"Person70","direct":"Event6"},{"id":"Statement-22","type":"participation","subject":"Person6","direct":"Event5"},{"id":"Statement-23","type":"address","subject":"Person95","direct":"Location15"},{"id":"Statement-24","type":"relationship","subject":"Person0","direct":"Person41"},{"id":"Statement-25","type":"possession","subject":"Person76","direct":"Objects15"},{"id":"Statement-26","type":"relationship","subject":"Person76","direct":"Person98"},{"id":"Statement-27","type":"relationship","subject":"Person8","direct":"Person22"},{"id":"Statement-28","type":"communication","subject":"Person0","direct":"Person79","indirect":"Statement-24"},{"id":"Statement-29","type":"relationship","subject":"Person89","direct":"Person99"},{"id":"Statement-30","type":"address","subject":"Person36","direct":"Location0"},{"id":"Statement-31","type":"being-part","subject":"Statement-16","direct":"Event3"},{"id":"Statement-32","type":"participation","subject":"Person15","direct":"Event2"},{"id":"Statement-33","type":"participation","subject":"Person20","direct":"Event9"},{"id":"Statement-34","type":"transfer","subject":"Person34","direct":"Person77","indirect":"Objects1"},{"id":"Statement-35","type":"participation","subject":"Person28","direct":"Event0"},{"id":"Statement-36","type":"location","subject":"Person2","direct":"Location0"},{"id":"Statement-37","type":"possession","subject":"Person94","direct":"Objects10"},{"id":"Statement-38","type":"happening-at","subject":"Event2","direct":"Location1"},{"id":"Statement-39","type":"participation","subject":"Person28","direct":"Event1"},{"id":"Statement-40","type":"participation","subject":"Person37","direct":"Event7"},{"id":"Statement-41","type":"location","subject":"Person75","direct":"Location3"},{"id":"Statement-42","type":"communication","subject":"Person92","direct":"Person37","indirect":"Statement-41"},{"id":"Statement-43","type":"communication","subject":"Person41","direct":"Person60","indirect":"Statement-28"},{"id":"Statement-44","type":"location","subject":"Person62","direct":"Location19"},{"id":"Statement-45","type":"possession","subject":"Person35","direct":"Objects12"},{"id":"Statement-46","type":"communication","subject":"Person85","direct":"Person7","indirect":"Statement-26"},{"id":"Statement-47","type":"relationship","subject":"Person36","direct":"Person91"},{"id":"Statement-48","type":"relationship","subject":"Person1","direct":"Person68"},{"id":"Statement-49","type":"being-part","subject":"Statement-19","direct":"Event0"},{"id":"Statement-50","type":"transfer","subject":"Person55","direct":"Person53","indirect":"Objects7"},{"id":"Statement-51","type":"participation","subject":"Person87","direct":"Event6"},{"id":"Statement-52","type":"address","subject":"Person88","direct":"Location12"},{"id":"Statement-53","type":"location","subject":"Person86","direct":"Location12"},{"id":"Statement-54","type":"location","subject":"Person89","direct":"Location2"},{"id":"Statement-55","type":"being-part","subject":"Statement-36","direct":"Event4"},{"id":"Statement-56","type":"relationship","subject":"Person52","direct":"Person16"},{"id":"Statement-57","type":"happening-at","subject":"Event8","direct":"Location10"},{"id":"Statement-58","type":"being-part","subject":"Statement-48","direct":"Event2"},{"id":"Statement-59","type":"possession","subject":"Person90","direct":"Objects3"},{"id":"Statement-60","type":"participation","subject":"Person88","direct":"Event1"},{"id":"Statement-61","type":"address","subject":"Person81","direct":"Location15"},{"id":"Statement-62","type":"participation","subject":"Person31","direct":"Event4"},{"id":"Statement-63","type":"happening-at","subject":"Event5","direct":"Location15"},{"id":"Statement-64","type":"transfer","subject":"Person2","direct":"Person99","indirect":"Objects3"},{"id":"Statement-65","type":"participation","subject":"Person54","direct":"Event5"},{"id":"Statement-66","type":"location","subject":"Person26","direct":"Location5"},{"id":"Statement-67","type":"communication","subject":"Person55","direct":"Person43","indirect":"Statement-62"},{"id":"Statement-68","type":"transfer","subject":"Person44","direct":"Person9","indirect":"Objects2"},{"id":"Statement-69","type":"happening-at","subject":"Event7","direct":"Location13"},{"id":"Statement-70","type":"relationship","subject":"Person75","direct":"Person16"},{"id":"Statement-71","type":"being-part","subject":"Statement-7","direct":"Event0"},{"id":"Statement-72","type":"participation","subject":"Person48","direct":"Event5"},{"id":"Statement-73","type":"being-part","subject":"Statement-25","direct":"Event9"},{"id":"Statement-74","type":"participation","subject":"Person34","direct":"Event1"},{"id":"Statement-75","type":"possession","subject":"Person79","direct":"Objects18"},{"id":"Statement-76","type":"location","subject":"Person66","direct":"Location2"},{"id":"Statement-77","type":"happening-at","subject":"Event6","direct":"Location0"},{"id":"Statement-78","type":"communication","subject":"Person10","direct":"Person2","indirect":"Statement-6"},{"id":"Statement-79","type":"relationship","subject":"Person82","direct":"Person12"},{"id":"Statement-80","type":"relationship","subject":"Person78","direct":"Person43"},{"id":"Statement-81","type":"participation","subject":"Person55","direct":"Event8"},{"id":"Statement-82","type":"happening-at","subject":"Event1","direct":"Location11"},{"id":"Statement-83","type":"happening-at","subject":"Event1","direct":"Location5"},{"id":"Statement-84","type":"communication","subject":"Person60","direct":"Person70","indirect":"Statement-14"},{"id":"Statement-85","type":"possession","subject":"Person27","direct":"Objects3"},{"id":"Statement-86","type":"participation","subject":"Person94","direct":"Event1"},{"id":"Statement-87","type":"location","subject":"Person28","direct":"Location16"},{"id":"Statement-88","type":"happening-at","subject":"Event9","direct":"Location8"},{"id":"Statement-89","type":"relationship","subject":"Person47","direct":"Person13"},{"id":"Statement-90","type":"transfer","subject":"Person6","direct":"Person73","indirect":"Objects0"},{"id":"Statement-91","type":"happening-at","subject":"Event7","direct":"Location19"},{"id":"Statement-92","type":"being-part","subject":"Statement-69","direct":"Event7"},{"id":"Statement-93","type":"location","subject":"Person92","direct":"Location5"},{"id":"Statement-94","type":"possession","subject":"Person60","direct":"Objects1"},{"id":"Statement-95","type":"communication","subject":"Person33","direct":"Person76","indirect":"Statement-40"},{"id":"Statement-96","type":"communication","subject":"Person33","direct":"Person55","indirect":"Statement-46"},{"id":"Statement-97","type":"address","subject":"Person87","direct":"Location16"},{"id":"Statement-98","type":"happening-at","subject":"Event5","direct":"Location15"},{"id":"Statement-99","type":"happening-at","subject":"Event0","direct":"Location12"}]
+[
+  {
+    "id": "Statement-0",
+    "type": "possession",
+    "name": "Statement-possession-0",
+    "subject": "Person31",
+    "direct": "Objects1"
+  },
+  {
+    "id": "Statement-1",
+    "type": "transfer",
+    "name": "Statement-transfer-1",
+    "subject": "Person88",
+    "direct": "Person2",
+    "indirect": "Objects4"
+  },
+  {
+    "id": "Statement-2",
+    "type": "communication",
+    "name": "Statement-communication-2",
+    "subject": "Person60",
+    "direct": "Person93",
+    "indirect": "Statement-1"
+  },
+  {
+    "id": "Statement-3",
+    "type": "relationship",
+    "name": "Statement-relationship-3",
+    "subject": "Person32",
+    "direct": "Person14"
+  },
+  {
+    "id": "Statement-4",
+    "type": "relationship",
+    "name": "Statement-relationship-4",
+    "subject": "Person89",
+    "direct": "Person56"
+  },
+  {
+    "id": "Statement-5",
+    "type": "location",
+    "name": "Statement-location-5",
+    "subject": "Person15",
+    "direct": "Location15"
+  },
+  {
+    "id": "Statement-6",
+    "type": "transfer",
+    "name": "Statement-transfer-6",
+    "subject": "Person90",
+    "direct": "Person66",
+    "indirect": "Objects16"
+  },
+  {
+    "id": "Statement-7",
+    "type": "participation",
+    "name": "Statement-participation-7",
+    "subject": "Person69",
+    "direct": "Event5"
+  },
+  {
+    "id": "Statement-8",
+    "type": "possession",
+    "name": "Statement-possession-8",
+    "subject": "Person77",
+    "direct": "Objects4"
+  },
+  {
+    "id": "Statement-9",
+    "type": "happening-at",
+    "name": "Statement-happening-at-9",
+    "subject": "Event3",
+    "direct": "Location17"
+  },
+  {
+    "id": "Statement-10",
+    "type": "address",
+    "name": "Statement-address-10",
+    "subject": "Person41",
+    "direct": "Location6"
+  },
+  {
+    "id": "Statement-11",
+    "type": "relationship",
+    "name": "Statement-relationship-11",
+    "subject": "Person0",
+    "direct": "Person53"
+  },
+  {
+    "id": "Statement-12",
+    "type": "location",
+    "name": "Statement-location-12",
+    "subject": "Person14",
+    "direct": "Location15"
+  },
+  {
+    "id": "Statement-13",
+    "type": "transfer",
+    "name": "Statement-transfer-13",
+    "subject": "Person71",
+    "direct": "Person49",
+    "indirect": "Objects16"
+  },
+  {
+    "id": "Statement-14",
+    "type": "being-part",
+    "name": "Statement-being-part-14",
+    "subject": "Statement-9",
+    "direct": "Event3"
+  },
+  {
+    "id": "Statement-15",
+    "type": "participation",
+    "name": "Statement-participation-15",
+    "subject": "Person94",
+    "direct": "Event5"
+  },
+  {
+    "id": "Statement-16",
+    "type": "possession",
+    "name": "Statement-possession-16",
+    "subject": "Person4",
+    "direct": "Objects17"
+  },
+  {
+    "id": "Statement-17",
+    "type": "address",
+    "name": "Statement-address-17",
+    "subject": "Person61",
+    "direct": "Location2"
+  },
+  {
+    "id": "Statement-18",
+    "type": "communication",
+    "name": "Statement-communication-18",
+    "subject": "Person86",
+    "direct": "Person89",
+    "indirect": "Statement-15"
+  },
+  {
+    "id": "Statement-19",
+    "type": "address",
+    "name": "Statement-address-19",
+    "subject": "Person60",
+    "direct": "Location18"
+  },
+  {
+    "id": "Statement-20",
+    "type": "transfer",
+    "name": "Statement-transfer-20",
+    "subject": "Person66",
+    "direct": "Person31",
+    "indirect": "Objects7"
+  },
+  {
+    "id": "Statement-21",
+    "type": "relationship",
+    "name": "Statement-relationship-21",
+    "subject": "Person10",
+    "direct": "Person56"
+  },
+  {
+    "id": "Statement-22",
+    "type": "happening-at",
+    "name": "Statement-happening-at-22",
+    "subject": "Event8",
+    "direct": "Location11"
+  },
+  {
+    "id": "Statement-23",
+    "type": "communication",
+    "name": "Statement-communication-23",
+    "subject": "Person26",
+    "direct": "Person70",
+    "indirect": "Statement-19"
+  },
+  {
+    "id": "Statement-24",
+    "type": "possession",
+    "name": "Statement-possession-24",
+    "subject": "Person1",
+    "direct": "Objects1"
+  },
+  {
+    "id": "Statement-25",
+    "type": "location",
+    "name": "Statement-location-25",
+    "subject": "Person74",
+    "direct": "Location12"
+  },
+  {
+    "id": "Statement-26",
+    "type": "communication",
+    "name": "Statement-communication-26",
+    "subject": "Person11",
+    "direct": "Person21",
+    "indirect": "Statement-18"
+  },
+  {
+    "id": "Statement-27",
+    "type": "happening-at",
+    "name": "Statement-happening-at-27",
+    "subject": "Event9",
+    "direct": "Location9"
+  },
+  {
+    "id": "Statement-28",
+    "type": "relationship",
+    "name": "Statement-relationship-28",
+    "subject": "Person90",
+    "direct": "Person22"
+  },
+  {
+    "id": "Statement-29",
+    "type": "participation",
+    "name": "Statement-participation-29",
+    "subject": "Person86",
+    "direct": "Event2"
+  },
+  {
+    "id": "Statement-30",
+    "type": "possession",
+    "name": "Statement-possession-30",
+    "subject": "Person42",
+    "direct": "Objects14"
+  },
+  {
+    "id": "Statement-31",
+    "type": "being-part",
+    "name": "Statement-being-part-31",
+    "subject": "Statement-10",
+    "direct": "Event6"
+  },
+  {
+    "id": "Statement-32",
+    "type": "address",
+    "name": "Statement-address-32",
+    "subject": "Person68",
+    "direct": "Location12"
+  },
+  {
+    "id": "Statement-33",
+    "type": "address",
+    "name": "Statement-address-33",
+    "subject": "Person87",
+    "direct": "Location1"
+  },
+  {
+    "id": "Statement-34",
+    "type": "communication",
+    "name": "Statement-communication-34",
+    "subject": "Person5",
+    "direct": "Person38",
+    "indirect": "Statement-21"
+  },
+  {
+    "id": "Statement-35",
+    "type": "transfer",
+    "name": "Statement-transfer-35",
+    "subject": "Person77",
+    "direct": "Person78",
+    "indirect": "Objects15"
+  },
+  {
+    "id": "Statement-36",
+    "type": "relationship",
+    "name": "Statement-relationship-36",
+    "subject": "Person43",
+    "direct": "Person9"
+  },
+  {
+    "id": "Statement-37",
+    "type": "possession",
+    "name": "Statement-possession-37",
+    "subject": "Person91",
+    "direct": "Objects14"
+  },
+  {
+    "id": "Statement-38",
+    "type": "happening-at",
+    "name": "Statement-happening-at-38",
+    "subject": "Event1",
+    "direct": "Location19"
+  },
+  {
+    "id": "Statement-39",
+    "type": "transfer",
+    "name": "Statement-transfer-39",
+    "subject": "Person14",
+    "direct": "Person96",
+    "indirect": "Objects5"
+  },
+  {
+    "id": "Statement-40",
+    "type": "being-part",
+    "name": "Statement-being-part-40",
+    "subject": "Statement-5",
+    "direct": "Event5"
+  },
+  {
+    "id": "Statement-41",
+    "type": "relationship",
+    "name": "Statement-relationship-41",
+    "subject": "Person31",
+    "direct": "Person99"
+  },
+  {
+    "id": "Statement-42",
+    "type": "address",
+    "name": "Statement-address-42",
+    "subject": "Person34",
+    "direct": "Location7"
+  },
+  {
+    "id": "Statement-43",
+    "type": "transfer",
+    "name": "Statement-transfer-43",
+    "subject": "Person97",
+    "direct": "Person26",
+    "indirect": "Objects5"
+  },
+  {
+    "id": "Statement-44",
+    "type": "address",
+    "name": "Statement-address-44",
+    "subject": "Person50",
+    "direct": "Location19"
+  },
+  {
+    "id": "Statement-45",
+    "type": "happening-at",
+    "name": "Statement-happening-at-45",
+    "subject": "Event6",
+    "direct": "Location11"
+  },
+  {
+    "id": "Statement-46",
+    "type": "transfer",
+    "name": "Statement-transfer-46",
+    "subject": "Person21",
+    "direct": "Person97",
+    "indirect": "Objects14"
+  },
+  {
+    "id": "Statement-47",
+    "type": "participation",
+    "name": "Statement-participation-47",
+    "subject": "Person58",
+    "direct": "Event4"
+  },
+  {
+    "id": "Statement-48",
+    "type": "address",
+    "name": "Statement-address-48",
+    "subject": "Person16",
+    "direct": "Location2"
+  },
+  {
+    "id": "Statement-49",
+    "type": "possession",
+    "name": "Statement-possession-49",
+    "subject": "Person97",
+    "direct": "Objects2"
+  },
+  {
+    "id": "Statement-50",
+    "type": "happening-at",
+    "name": "Statement-happening-at-50",
+    "subject": "Event1",
+    "direct": "Location10"
+  },
+  {
+    "id": "Statement-51",
+    "type": "possession",
+    "name": "Statement-possession-51",
+    "subject": "Person57",
+    "direct": "Objects0"
+  },
+  {
+    "id": "Statement-52",
+    "type": "relationship",
+    "name": "Statement-relationship-52",
+    "subject": "Person93",
+    "direct": "Person78"
+  },
+  {
+    "id": "Statement-53",
+    "type": "communication",
+    "name": "Statement-communication-53",
+    "subject": "Person65",
+    "direct": "Person25",
+    "indirect": "Statement-2"
+  },
+  {
+    "id": "Statement-54",
+    "type": "location",
+    "name": "Statement-location-54",
+    "subject": "Person85",
+    "direct": "Location18"
+  },
+  {
+    "id": "Statement-55",
+    "type": "happening-at",
+    "name": "Statement-happening-at-55",
+    "subject": "Event4",
+    "direct": "Location4"
+  },
+  {
+    "id": "Statement-56",
+    "type": "communication",
+    "name": "Statement-communication-56",
+    "subject": "Person33",
+    "direct": "Person90",
+    "indirect": "Statement-0"
+  },
+  {
+    "id": "Statement-57",
+    "type": "possession",
+    "name": "Statement-possession-57",
+    "subject": "Person85",
+    "direct": "Objects15"
+  },
+  {
+    "id": "Statement-58",
+    "type": "relationship",
+    "name": "Statement-relationship-58",
+    "subject": "Person22",
+    "direct": "Person33"
+  },
+  {
+    "id": "Statement-59",
+    "type": "being-part",
+    "name": "Statement-being-part-59",
+    "subject": "Statement-11",
+    "direct": "Event5"
+  },
+  {
+    "id": "Statement-60",
+    "type": "relationship",
+    "name": "Statement-relationship-60",
+    "subject": "Person31",
+    "direct": "Person92"
+  },
+  {
+    "id": "Statement-61",
+    "type": "communication",
+    "name": "Statement-communication-61",
+    "subject": "Person27",
+    "direct": "Person94",
+    "indirect": "Statement-30"
+  },
+  {
+    "id": "Statement-62",
+    "type": "happening-at",
+    "name": "Statement-happening-at-62",
+    "subject": "Event3",
+    "direct": "Location19"
+  },
+  {
+    "id": "Statement-63",
+    "type": "communication",
+    "name": "Statement-communication-63",
+    "subject": "Person69",
+    "direct": "Person60",
+    "indirect": "Statement-23"
+  },
+  {
+    "id": "Statement-64",
+    "type": "location",
+    "name": "Statement-location-64",
+    "subject": "Person32",
+    "direct": "Location4"
+  },
+  {
+    "id": "Statement-65",
+    "type": "relationship",
+    "name": "Statement-relationship-65",
+    "subject": "Person33",
+    "direct": "Person81"
+  },
+  {
+    "id": "Statement-66",
+    "type": "relationship",
+    "name": "Statement-relationship-66",
+    "subject": "Person16",
+    "direct": "Person5"
+  },
+  {
+    "id": "Statement-67",
+    "type": "communication",
+    "name": "Statement-communication-67",
+    "subject": "Person92",
+    "direct": "Person76",
+    "indirect": "Statement-12"
+  },
+  {
+    "id": "Statement-68",
+    "type": "being-part",
+    "name": "Statement-being-part-68",
+    "subject": "Statement-63",
+    "direct": "Event0"
+  },
+  {
+    "id": "Statement-69",
+    "type": "location",
+    "name": "Statement-location-69",
+    "subject": "Person89",
+    "direct": "Location9"
+  },
+  {
+    "id": "Statement-70",
+    "type": "happening-at",
+    "name": "Statement-happening-at-70",
+    "subject": "Event7",
+    "direct": "Location5"
+  },
+  {
+    "id": "Statement-71",
+    "type": "relationship",
+    "name": "Statement-relationship-71",
+    "subject": "Person1",
+    "direct": "Person3"
+  },
+  {
+    "id": "Statement-72",
+    "type": "happening-at",
+    "name": "Statement-happening-at-72",
+    "subject": "Event7",
+    "direct": "Location13"
+  },
+  {
+    "id": "Statement-73",
+    "type": "address",
+    "name": "Statement-address-73",
+    "subject": "Person63",
+    "direct": "Location19"
+  },
+  {
+    "id": "Statement-74",
+    "type": "communication",
+    "name": "Statement-communication-74",
+    "subject": "Person74",
+    "direct": "Person26",
+    "indirect": "Statement-32"
+  },
+  {
+    "id": "Statement-75",
+    "type": "communication",
+    "name": "Statement-communication-75",
+    "subject": "Person32",
+    "direct": "Person34",
+    "indirect": "Statement-32"
+  },
+  {
+    "id": "Statement-76",
+    "type": "location",
+    "name": "Statement-location-76",
+    "subject": "Person22",
+    "direct": "Location5"
+  },
+  {
+    "id": "Statement-77",
+    "type": "location",
+    "name": "Statement-location-77",
+    "subject": "Person79",
+    "direct": "Location2"
+  },
+  {
+    "id": "Statement-78",
+    "type": "being-part",
+    "name": "Statement-being-part-78",
+    "subject": "Statement-71",
+    "direct": "Event4"
+  },
+  {
+    "id": "Statement-79",
+    "type": "transfer",
+    "name": "Statement-transfer-79",
+    "subject": "Person41",
+    "direct": "Person46",
+    "indirect": "Objects8"
+  },
+  {
+    "id": "Statement-80",
+    "type": "communication",
+    "name": "Statement-communication-80",
+    "subject": "Person81",
+    "direct": "Person77",
+    "indirect": "Statement-78"
+  },
+  {
+    "id": "Statement-81",
+    "type": "possession",
+    "name": "Statement-possession-81",
+    "subject": "Person13",
+    "direct": "Objects6"
+  },
+  {
+    "id": "Statement-82",
+    "type": "address",
+    "name": "Statement-address-82",
+    "subject": "Person67",
+    "direct": "Location10"
+  },
+  {
+    "id": "Statement-83",
+    "type": "transfer",
+    "name": "Statement-transfer-83",
+    "subject": "Person98",
+    "direct": "Person85",
+    "indirect": "Objects4"
+  },
+  {
+    "id": "Statement-84",
+    "type": "communication",
+    "name": "Statement-communication-84",
+    "subject": "Person33",
+    "direct": "Person54",
+    "indirect": "Statement-68"
+  },
+  {
+    "id": "Statement-85",
+    "type": "location",
+    "name": "Statement-location-85",
+    "subject": "Person45",
+    "direct": "Location12"
+  },
+  {
+    "id": "Statement-86",
+    "type": "possession",
+    "name": "Statement-possession-86",
+    "subject": "Person37",
+    "direct": "Objects16"
+  },
+  {
+    "id": "Statement-87",
+    "type": "communication",
+    "name": "Statement-communication-87",
+    "subject": "Person21",
+    "direct": "Person55",
+    "indirect": "Statement-79"
+  },
+  {
+    "id": "Statement-88",
+    "type": "possession",
+    "name": "Statement-possession-88",
+    "subject": "Person32",
+    "direct": "Objects9"
+  },
+  {
+    "id": "Statement-89",
+    "type": "relationship",
+    "name": "Statement-relationship-89",
+    "subject": "Person55",
+    "direct": "Person34"
+  },
+  {
+    "id": "Statement-90",
+    "type": "relationship",
+    "name": "Statement-relationship-90",
+    "subject": "Person38",
+    "direct": "Person0"
+  },
+  {
+    "id": "Statement-91",
+    "type": "location",
+    "name": "Statement-location-91",
+    "subject": "Person64",
+    "direct": "Location3"
+  },
+  {
+    "id": "Statement-92",
+    "type": "possession",
+    "name": "Statement-possession-92",
+    "subject": "Person65",
+    "direct": "Objects5"
+  },
+  {
+    "id": "Statement-93",
+    "type": "location",
+    "name": "Statement-location-93",
+    "subject": "Person63",
+    "direct": "Location0"
+  },
+  {
+    "id": "Statement-94",
+    "type": "participation",
+    "name": "Statement-participation-94",
+    "subject": "Person62",
+    "direct": "Event3"
+  },
+  {
+    "id": "Statement-95",
+    "type": "being-part",
+    "name": "Statement-being-part-95",
+    "subject": "Statement-50",
+    "direct": "Event4"
+  },
+  {
+    "id": "Statement-96",
+    "type": "happening-at",
+    "name": "Statement-happening-at-96",
+    "subject": "Event6",
+    "direct": "Location5"
+  },
+  {
+    "id": "Statement-97",
+    "type": "communication",
+    "name": "Statement-communication-97",
+    "subject": "Person91",
+    "direct": "Person1",
+    "indirect": "Statement-81"
+  },
+  {
+    "id": "Statement-98",
+    "type": "address",
+    "name": "Statement-address-98",
+    "subject": "Person75",
+    "direct": "Location0"
+  },
+  {
+    "id": "Statement-99",
+    "type": "relationship",
+    "name": "Statement-relationship-99",
+    "subject": "Person80",
+    "direct": "Person80"
+  }
+]
